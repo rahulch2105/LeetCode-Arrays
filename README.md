@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0001-two-sum) |
+| [0133-clone-graph](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -46,4 +47,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0344-reverse-string) |
+## Depth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0133-clone-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0133-clone-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
