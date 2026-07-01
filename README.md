@@ -47,10 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0344-reverse-string) |
+| [0753-cracking-the-safe](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0753-cracking-the-safe) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0133-clone-graph) |
+| [0753-cracking-the-safe](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0753-cracking-the-safe) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -59,4 +61,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0133-clone-graph) |
+| [0753-cracking-the-safe](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0753-cracking-the-safe) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0753-cracking-the-safe](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0753-cracking-the-safe) |
 <!---LeetCode Topics End-->
