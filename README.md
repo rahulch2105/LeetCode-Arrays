@@ -98,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0355-design-twitter](https://github.com/rahulch2105/LeetCode-Arrays/tree/main/0355-design-twitter/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/rahulch2105/LeetCode-Arrays/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
