@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0274-h-index) |
 | [0354-russian-doll-envelopes](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0354-russian-doll-envelopes) |
 | [0485-max-consecutive-ones](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0485-max-consecutive-ones) |
 ## Two Pointers
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0274-h-index) |
 | [0354-russian-doll-envelopes](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0354-russian-doll-envelopes) |
 ## Counting
 |  |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
