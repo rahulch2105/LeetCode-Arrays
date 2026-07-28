@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/rahulch2105/LeetCode-Arrays/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0274-h-index) |
 | [0354-russian-doll-envelopes](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0354-russian-doll-envelopes) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0162-find-peak-element](https://github.com/rahulch2105/LeetCode-Arrays/tree/main/0162-find-peak-element/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0354-russian-doll-envelopes) |
 ## Linked List
 | Problem Name | Difficulty |
