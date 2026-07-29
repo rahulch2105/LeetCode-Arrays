@@ -29,11 +29,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/rahulch2105/LeetCode-Arrays/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0066-plus-one) |
+| [0166-fraction-to-recurring-decimal](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0166-fraction-to-recurring-decimal) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0001-two-sum) |
 | [0133-clone-graph](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0133-clone-graph) |
+| [0166-fraction-to-recurring-decimal](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0169-majority-element) |
 | [0355-design-twitter](https://github.com/rahulch2105/LeetCode-Arrays/tree/main/0355-design-twitter/) | Medium |
 ## Divide and Conquer
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0125-valid-palindrome) |
+| [0166-fraction-to-recurring-decimal](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0166-fraction-to-recurring-decimal) |
 | [0344-reverse-string](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0344-reverse-string) |
 | [0753-cracking-the-safe](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0753-cracking-the-safe) |
 ## Depth-First Search
