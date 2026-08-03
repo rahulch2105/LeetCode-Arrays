@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/rahulch2105/LeetCode-Arrays/tree/main/0162-find-peak-element/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0274-h-index) |
 | [0354-russian-doll-envelopes](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0354-russian-doll-envelopes) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0344-reverse-string) |
 ## Math
 |  |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/rahulch2105/LeetCode-Arrays/tree/main/0162-find-peak-element/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0354-russian-doll-envelopes](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0354-russian-doll-envelopes) |
 ## Linked List
 |  |
