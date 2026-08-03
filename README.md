@@ -142,4 +142,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0095-unique-binary-search-trees-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
