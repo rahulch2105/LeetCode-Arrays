@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0053-maximum-subarray) |
+| [0095-unique-binary-search-trees-ii](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0095-unique-binary-search-trees-ii) |
 | [0354-russian-doll-envelopes](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0354-russian-doll-envelopes) |
 ## Binary Search
 |  |
@@ -122,13 +123,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0095-unique-binary-search-trees-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0095-unique-binary-search-trees-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Counting Sort
 |  |
 | ------- |
 | [0274-h-index](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0274-h-index) |
+## Backtracking
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
