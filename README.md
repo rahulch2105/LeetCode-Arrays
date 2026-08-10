@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0075-sort-colors) |
+| [0086-partition-list](https://github.com/rahulch2105/LeetCode-Arrays/tree/main/0086-partition-list/) | Medium |
 | [0125-valid-palindrome](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0344-reverse-string) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0086-partition-list](https://github.com/rahulch2105/LeetCode-Arrays/tree/main/0086-partition-list/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0355-design-twitter](https://github.com/rahulch2105/LeetCode-Arrays/tree/main/0355-design-twitter/) | Medium |
 ## Design
