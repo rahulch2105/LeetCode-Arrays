@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rahulch2105/LeetCode-Arrays/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/rahulch2105/LeetCode-Arrays/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/rahulch2105/LeetCode-Arrays/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/rahulch2105/LeetCode-Arrays/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0133-clone-graph](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0133-clone-graph) |
 | [0166-fraction-to-recurring-decimal](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0169-majority-element) |
@@ -166,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rahulch2105/LeetCode-Arrays/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/rahulch2105/LeetCode-Arrays/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
