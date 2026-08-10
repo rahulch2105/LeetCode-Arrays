@@ -4,7 +4,7 @@ class Solution {
         int i=0;
         int p=0,n=1;
         while(i<nums.length){
-            if(nums[i]>0){
+            if(nums[i]>=0){
                 arr[p]=nums[i];
                 p+=2;
                 i++;
