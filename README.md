@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/rahulch2105/LeetCode-Arrays/tree/main/0275-h-index-ii/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0354-russian-doll-envelopes) |
 | [0485-max-consecutive-ones](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/rahulch2105/LeetCode-Arrays/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rahulch2105/LeetCode-Arrays/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0169-majority-element) |
 | [0355-design-twitter](https://github.com/rahulch2105/LeetCode-Arrays/tree/main/0355-design-twitter/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/rahulch2105/LeetCode-Arrays/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -172,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/rahulch2105/LeetCode-Arrays/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/rahulch2105/LeetCode-Arrays/tree/main/0560-subarray-sum-equals-k/) | Medium |
 <!---LeetCode Topics End-->
