@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/rahulch2105/LeetCode-Arrays/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0133-clone-graph](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0133-clone-graph) |
+| [0138-copy-list-with-random-pointer](https://github.com/rahulch2105/LeetCode-Arrays/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0166-fraction-to-recurring-decimal](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0169-majority-element) |
 | [0355-design-twitter](https://github.com/rahulch2105/LeetCode-Arrays/tree/main/0355-design-twitter/) | Medium |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0086-partition-list](https://github.com/rahulch2105/LeetCode-Arrays/tree/main/0086-partition-list/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/rahulch2105/LeetCode-Arrays/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0355-design-twitter](https://github.com/rahulch2105/LeetCode-Arrays/tree/main/0355-design-twitter/) | Medium |
 ## Design
 | Problem Name | Difficulty |
