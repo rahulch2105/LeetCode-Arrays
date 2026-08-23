@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/rahulch2105/LeetCode-Arrays/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0274-h-index](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/rahulch2105/LeetCode-Arrays/tree/main/0275-h-index-ii/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/rahulch2105/LeetCode-Arrays/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0354-russian-doll-envelopes) |
 | [0485-max-consecutive-ones](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/rahulch2105/LeetCode-Arrays/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rahulch2105/LeetCode-Arrays/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/rahulch2105/LeetCode-Arrays/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0354-russian-doll-envelopes) |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rahulch2105/LeetCode-Arrays/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0275-h-index-ii](https://github.com/rahulch2105/LeetCode-Arrays/tree/main/0275-h-index-ii/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/rahulch2105/LeetCode-Arrays/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0354-russian-doll-envelopes) |
 | [0704-binary-search](https://github.com/rahulch2105/LeetCode-Arrays/tree/main/0704-binary-search/) | Easy |
 ## Linked List
@@ -198,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/rahulch2105/LeetCode-Arrays/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/rahulch2105/LeetCode-Arrays/tree/main/0300-longest-increasing-subsequence/) | Medium |
 <!---LeetCode Topics End-->
