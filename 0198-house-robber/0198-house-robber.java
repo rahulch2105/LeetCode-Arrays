@@ -1,7 +1,7 @@
 class Solution {
     public int rob(int[] nums) {
-        int prev2 = 0;
-        int prev1 = 0;
+        int prev2 = 0; // dp[i-2]
+        int prev1 = 0; // dp[i-1]
 
         for (int money : nums) {
             int current = Math.max(prev1, prev2 + money);
@@ -11,6 +11,5 @@ class Solution {
         }
 
         return prev1;
-    
     }
 }
