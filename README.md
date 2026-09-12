@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rahulch2105/LeetCode-Arrays/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0274-h-index](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/rahulch2105/LeetCode-Arrays/tree/main/0275-h-index-ii/) | Medium |
@@ -88,11 +89,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0133-clone-graph](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0200-number-of-islands) |
 | [0753-cracking-the-safe](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0753-cracking-the-safe) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0200-number-of-islands) |
 ## Graph Theory
 |  |
 | ------- |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/rahulch2105/LeetCode-Arrays/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0200-number-of-islands](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0200-number-of-islands) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -200,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rahulch2105/LeetCode-Arrays/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Longest Increasing Subsequence
 |  |
