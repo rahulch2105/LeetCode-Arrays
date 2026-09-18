@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0354-russian-doll-envelopes) |
 | [0393-utf-8-validation](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0393-utf-8-validation) |
 | [0396-rotate-function](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0396-rotate-function) |
+| [0399-evaluate-division](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0399-evaluate-division) |
 | [0485-max-consecutive-ones](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/rahulch2105/LeetCode-Arrays/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/rahulch2105/LeetCode-Arrays/tree/main/0704-binary-search/) | Easy |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0399-evaluate-division](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0399-evaluate-division) |
 | [0753-cracking-the-safe](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0753-cracking-the-safe) |
 ## Depth-First Search
 |  |
@@ -101,16 +103,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0133-clone-graph](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0399-evaluate-division) |
 | [0753-cracking-the-safe](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0753-cracking-the-safe) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0399-evaluate-division) |
 ## Graph Theory
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0133-clone-graph) |
+| [0399-evaluate-division](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0399-evaluate-division) |
 | [0753-cracking-the-safe](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0753-cracking-the-safe) |
 ## Eulerian Circuit
 |  |
@@ -214,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/rahulch2105/LeetCode-Arrays/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0399-evaluate-division) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -252,4 +258,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0398-random-pick-index](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0398-random-pick-index) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0399-evaluate-division) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0399-evaluate-division) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
