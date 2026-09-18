@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0136-single-number) |
 | [0393-utf-8-validation](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0393-utf-8-validation) |
+| [0397-integer-replacement](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0397-integer-replacement) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/rahulch2105/LeetCode-Arrays/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0354-russian-doll-envelopes) |
 | [0396-rotate-function](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0396-rotate-function) |
+| [0397-integer-replacement](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0397-integer-replacement) |
 ## Binary Search
 |  |
 | ------- |
@@ -232,4 +234,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+## Greedy
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0397-integer-replacement) |
+## Memoization
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0397-integer-replacement) |
 <!---LeetCode Topics End-->
