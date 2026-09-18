@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0066-plus-one) |
 | [0166-fraction-to-recurring-decimal](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0166-fraction-to-recurring-decimal) |
 | [0396-rotate-function](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0396-rotate-function) |
+| [0398-random-pick-index](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0398-random-pick-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0169-majority-element) |
 | [0355-design-twitter](https://github.com/rahulch2105/LeetCode-Arrays/tree/main/0355-design-twitter/) | Medium |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0398-random-pick-index](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0398-random-pick-index) |
 | [0560-subarray-sum-equals-k](https://github.com/rahulch2105/LeetCode-Arrays/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Divide and Conquer
 |  |
@@ -242,4 +244,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0397-integer-replacement) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0398-random-pick-index) |
+## Randomized
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
