@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/rahulch2105/LeetCode-Arrays/tree/main/0275-h-index-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/rahulch2105/LeetCode-Arrays/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0354-russian-doll-envelopes) |
+| [0393-utf-8-validation](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0393-utf-8-validation) |
 | [0485-max-consecutive-ones](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/rahulch2105/LeetCode-Arrays/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/rahulch2105/LeetCode-Arrays/tree/main/0704-binary-search/) | Easy |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0136-single-number) |
+| [0393-utf-8-validation](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0393-utf-8-validation) |
 ## Dynamic Programming
 |  |
 | ------- |
