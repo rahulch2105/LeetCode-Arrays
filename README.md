@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0008-string-to-integer-atoi) |
 | [0058-length-of-last-word](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0058-length-of-last-word) |
+| [0071-simplify-path](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0071-simplify-path) |
 | [0093-restore-ip-addresses](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0125-valid-palindrome) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0071-simplify-path) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0394-decode-string](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0394-decode-string) |
 ## Tree
