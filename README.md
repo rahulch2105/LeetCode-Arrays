@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/rahulch2105/LeetCode-Arrays/tree/main/0009-palindrome-number/) | Easy |
+| [0050-powx-n](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0066-plus-one) |
 | [0166-fraction-to-recurring-decimal](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0166-fraction-to-recurring-decimal) |
 | [0396-rotate-function](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0396-rotate-function) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0050-powx-n) |
 | [0394-decode-string](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0394-decode-string) |
 ## Sliding Window
 |  |
