@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rahulch2105/LeetCode-Arrays/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/rahulch2105/LeetCode-Arrays/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0136-single-number) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0136-single-number) |
 | [0393-utf-8-validation](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0393-utf-8-validation) |
 | [0397-integer-replacement](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0397-integer-replacement) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0078-subsets) |
 | [0093-restore-ip-addresses](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/rahulch2105/LeetCode-Arrays/tree/master/0095-unique-binary-search-trees-ii) |
 ## Binary Search Tree
